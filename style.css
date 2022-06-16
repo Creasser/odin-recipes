@@ -1,0 +1,62 @@
+*{
+    font-family: sans-serif
+}
+h1{
+    text-align: center;
+    color: rgb(20, 177, 28);
+    background-color: black;
+    font-size: 40px;
+}
+.main{
+    color: rgb(0, 0, 0);
+    background-color: beige;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: yellow;
+    background-color: black;
+}
+h3{
+    text-align: center;
+    color: yellow;
+    background-color: black;
+}
+.ham{
+    color: red;
+    font-size: 25px;
+}
+.ham-steps{
+    color: blue;
+    font-size: 25px;
+}
+.hamimg{
+    text-align: center;
+}
+.fet{
+    color: cadetblue;
+    font-size: 25px;
+}
+.cream{
+    color: blueviolet;
+}
+.fet-steps{
+    color: blueviolet;
+    font-size: 25px;
+}
+.fetimg{
+    text-align: center;
+}
+.steak{
+    color: maroon;
+    font-size: 25px;
+}
+.steak-steps{
+    color: darkmagenta;
+    font-size: 25px;
+}
+.steakimg{
+    text-align: center;
+}
